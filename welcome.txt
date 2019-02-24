@@ -1,0 +1,1 @@
+This is a text file which introduces the users to the application.
